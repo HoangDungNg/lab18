@@ -1,0 +1,25 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url('https://random.imagecdn.app/1000/700');
+}
+
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url('https://random.imagecdn.app/1000/701');
+}
+
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url('https://random.imagecdn.app/1000/702');
+}
+
+.carousel-item {
+  height: 75vh;
+}
+
+footer {
+  height: 25vh;
+}
